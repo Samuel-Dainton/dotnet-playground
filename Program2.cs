@@ -1,4 +1,4 @@
-int result = Fibonacci(5);
+/* int result = Fibonacci(5);
 Console.WriteLine(result);
 
 static int Fibonacci(int n)
@@ -16,3 +16,4 @@ static int Fibonacci(int n)
 
     return n == 0 ? n1 : n2;
 }
+*/

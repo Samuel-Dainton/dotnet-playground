@@ -8,6 +8,9 @@ namespace dotnetcore
         static void Main(string[] args)
         {
             // This is a comment.
+            /* This is a
+            multi line
+            comment */
 
             // Write will put everything together.
             Console.Write("Congratulations!");
